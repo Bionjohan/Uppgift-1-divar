@@ -1,0 +1,35 @@
+.top{
+    display: flex;
+    align-items: center;
+    border: solid red;
+    justify-content: space-around;
+    font-size: 20px;
+}
+h1{
+    background-color: aqua;
+    border: solid black;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.mellan{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: solid orange;
+}
+.rubrik_v{
+    text-align: center;
+    background-color: yellow;
+    padding-left: 17%;
+    padding-right: 17%;
+}
+.rubrik_h{
+    text-align: end;
+    background-color: lightpink;
+    padding-left: 17%;
+    padding-right: 17%;
+}
+.botten{
+    border: solid yellow;
+}
